@@ -1,0 +1,5 @@
+﻿  FFmpegAndSDL.cpp
+q:\ywf\work\ffmpeg\ffmpegandsdl\ffmpegandsdl\ffmpegandsdl.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+SDL2main.lib(SDL_windows_main.obj) : warning LNK4217: 本地定义的符号 ___iob_func 在函数 _ShowError 中导入
+  FFmpegAndSDL.vcxproj -> Q:\ywf\work\FFMPEG\FFmpegAndSDL\Debug\FFmpegAndSDL.exe
